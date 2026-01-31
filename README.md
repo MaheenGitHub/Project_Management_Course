@@ -1,6 +1,6 @@
 # Project Management Course Material (ITF22)
 
-This repository contains **Project Management / Software Project Management** course material studied during my BSIT degree (7TH Sem).
+This repository contains **Project Management / Software Project Management** course material studied during my BSIT degree (7th Sem).
 
 It includes lecture slides, assignments, case studies, and final-term project resources collected throughout the semester.
 
@@ -73,5 +73,5 @@ Suggestions and improvements are welcome.
 ---
 
 ## 👩‍💻 Maintained By
-**Maheen**  
-BSIT Student
+**Maheen Fatima**  
+BSIT-F22 Student at PUCIT
