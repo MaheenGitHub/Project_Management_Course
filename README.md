@@ -25,27 +25,27 @@ Complete lecture slides covering the full semester, including:
 - Monitoring & Controlling Projects
 - Final-Term Topics
 
----
+
 
 ### 🔹 Assignments
 - A01.pdf  
 - A02.docx  
 
----
+
 
 ### 🔹 Case Studies
 - Case Study Assignments
 - WBS Case Study
 - Individual & group-based case study reports
 
----
+
 
 ### 🔹 Projects & Reports
 - Project Charter
 - Final Term Project Guidelines
 - Final Project Reports (PDF)
 
----
+
 
 ### 🔹 Reference Material
 - Software Project Management (Reference PDF)
